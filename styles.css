@@ -1,0 +1,23 @@
+h1, h2, p {
+  text-align: center;
+}
+body {
+  background-image: url(blizpretty.jpg);
+}
+.menu {
+  background-color: burlywood;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.session {
+  text-align: left;
+  width: 75%;
+}
+.price {
+  text-align: right;
+  width: 25%;
+}
+.item p {
+  display: inline-block
+}
